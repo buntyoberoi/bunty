@@ -1,0 +1,12 @@
+
+img {
+    float: left;
+    height: 300px;
+    width: 400px;
+}
+
+h1 {
+    color: hsl(240, 100%, 50%);
+    margin: 0;
+    padding: 0 8px 10px 0;
+}
